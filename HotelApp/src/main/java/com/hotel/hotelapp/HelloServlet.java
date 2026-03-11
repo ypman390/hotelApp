@@ -1,7 +1,6 @@
 package com.hotel.hotelapp;
 
 import java.io.*;
-
 import jakarta.servlet.http.*;
 import jakarta.servlet.annotation.*;
 
