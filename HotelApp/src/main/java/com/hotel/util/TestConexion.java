@@ -1,4 +1,4 @@
-package com.hotel.hotelapp.util;
+package com.hotel.util;
 
 import java.sql.Connection;
 import java.sql.SQLException;

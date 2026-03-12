@@ -1,4 +1,4 @@
-package com.hotel.hotelapp.model;
+package com.hotel.model;
 
 
 import java.math.BigDecimal;

@@ -1,4 +1,4 @@
-package com.hotel.hotelapp;
+package com.hotel;
 
 import java.io.*;
 import jakarta.servlet.http.*;
