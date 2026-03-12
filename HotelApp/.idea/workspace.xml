@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="816dd6e8-21d2-44c5-9ce8-545ad8e06e2f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/hotel/hotelapp/model/Habitacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +38,20 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3AoegEvGwdVFBdsm5l63j0T9ihi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestConexion.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
@@ -118,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1773263475194</updated>
       <workItem from="1773263487222" duration="515000" />
-      <workItem from="1773338240411" duration="781000" />
+      <workItem from="1773338240411" duration="1785000" />
     </task>
     <servers />
   </component>
