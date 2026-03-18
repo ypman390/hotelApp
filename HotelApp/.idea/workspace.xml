@@ -47,6 +47,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.TestConexion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.hotel.util.TestConexion.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -66,13 +67,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestConexion">
+  <component name="RunManager" selected="Application.com.hotel.util.TestConexion">
     <configuration name="TestConexion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hotel.hotelapp.util.TestConexion" />
       <module name="HotelApp" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.hotel.hotelapp.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hotel.util.TestConexion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hotel.util.TestConexion" />
+      <module name="HotelApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hotel.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,6 +117,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.hotel.util.TestConexion" />
         <item itemvalue="Application.TestConexion" />
       </list>
     </recent_temporary>
@@ -124,7 +139,8 @@
       <updated>1773263475194</updated>
       <workItem from="1773263487222" duration="515000" />
       <workItem from="1773338240411" duration="3071000" />
-      <workItem from="1773767594599" duration="1636000" />
+      <workItem from="1773767594599" duration="2247000" />
+      <workItem from="1773862094033" duration="1711000" />
     </task>
     <servers />
   </component>
