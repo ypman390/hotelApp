@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="816dd6e8-21d2-44c5-9ce8-545ad8e06e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotel/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -140,7 +143,7 @@
       <workItem from="1773263487222" duration="515000" />
       <workItem from="1773338240411" duration="3071000" />
       <workItem from="1773767594599" duration="2247000" />
-      <workItem from="1773862094033" duration="1711000" />
+      <workItem from="1773862094033" duration="2549000" />
     </task>
     <servers />
   </component>
