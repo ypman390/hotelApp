@@ -87,9 +87,15 @@ public class ClienteDAOImpl implements ClienteDAO {
             ps.setInt(8, cliente.getNumEstancias());
             ps.setBoolean(9, cliente.isActivo());
 
-            return ps.executeUpdate() > 0;
+            int filas = ps.executeUpdate();
+            System.out.println("✅ Filas insertadas: " + filas);
+            return filas > 0;
 
         } catch (SQLException e) {
+            System.out.println("❌ Error SQL: " + e.getMessage());
+            e.printStackTrace();
+        } catch (Exception e) {
+            System.out.println("❌ Error general: " + e.getMessage());
             e.printStackTrace();
         }
         return false;
