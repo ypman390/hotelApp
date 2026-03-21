@@ -11,9 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="816dd6e8-21d2-44c5-9ce8-545ad8e06e2f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotel/dao/impl/ClienteDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hotel/dao/impl/ClienteDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/hotel/util/ConexionDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/hotel/util/ConexionDB.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -188,7 +185,7 @@
       <workItem from="1773338240411" duration="3071000" />
       <workItem from="1773767594599" duration="2247000" />
       <workItem from="1773862094033" duration="2549000" />
-      <workItem from="1774036710941" duration="3824000" />
+      <workItem from="1774036710941" duration="6142000" />
     </task>
     <servers />
   </component>
